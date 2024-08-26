@@ -2,8 +2,8 @@
 
 🔭 _I’m currently working on website for my portfolio ..._  
 🌱 _I’m currently learning the game development ..._  
-⚡ **Fun fact :** _I'am Gamer, Biker, Skateboarder_  
-📫 **How to reach me :** _Email or Discord_  
+⚡ _**Fun fact :** I'am Gamer, Biker, Skateboarder_  
+📫 _**How to reach me :** Email or Discord_  
 
 💻 **Languages and Tools :**
 
