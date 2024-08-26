@@ -11,5 +11,5 @@
 
 ⭐ **GitHub Stats :**
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=radical)
 
