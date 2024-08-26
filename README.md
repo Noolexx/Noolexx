@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=SachaViry&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true)
 
 <!---
 Noolexx/Noolexx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
