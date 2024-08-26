@@ -6,10 +6,8 @@ Actually:
 📫 **How to reach me :** Email or Discord
 
 **Language :**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
-<i class="devicon-unrealengine-original-wordmark"></i>
-<i class="devicon-canva-original"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /> 
+
 
 **Statistics :**
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true)
