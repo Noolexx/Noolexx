@@ -1,7 +1,7 @@
 📢 **Latest News:**
 
 🔭 _I’m currently working on website for my portfolio ..._  
-🌱 _I’m currently learning the game development ..._  
+🌱 _I’m learning the game development ..._  
 ⚡ _**Fun fact :** I'am Gamer, Biker, Skateboarder_  
 📫 _**How to reach me :** Email or Discord_  
 
@@ -11,5 +11,5 @@
 
 ⭐ **GitHub Stats :**
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=radical)
+![GHstats](https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=algolia)
 
