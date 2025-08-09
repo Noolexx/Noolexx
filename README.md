@@ -32,6 +32,6 @@
 </h2>
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=dark" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=dark" style="width: 75%; height: auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </p>
