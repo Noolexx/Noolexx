@@ -5,7 +5,9 @@
 ⚡ _**Fun fact :** I'am Gamer, Biker, Skateboarder_  
 📫 _**How to reach me :** Email or Discord_  
 
+<h2 align="center">
 💻 **Languages and Tools :**
+</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
