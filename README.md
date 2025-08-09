@@ -24,9 +24,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,visualstudio,vscode,cs,html,blender,git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,visualstudio,vscode,cs,html,blender,git" />
 </p>
 
 <h2 align="center">
