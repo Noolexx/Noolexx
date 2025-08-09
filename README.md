@@ -34,8 +34,8 @@
 </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev" vertical-align: baseline;>
+  <a href="https://skillicons.dev">
     <img src="https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" vertical-align=baseline />
   </a>
 </p>
