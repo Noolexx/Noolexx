@@ -1,4 +1,6 @@
-📢 **Latest News:**
+<h2 align="center">
+  📢 Latest News:
+</h2>
 
 🔭 _I’m currently working on website for my portfolio ..._  
 🌱 _I’m learning the game development ..._  
@@ -6,7 +8,7 @@
 📫 _**How to reach me :** Email or Discord_  
 
 <h2 align="center">
-💻 **Languages and Tools :**
+💻 Languages and Tools :
 </h2>
 
 <p align="center">
