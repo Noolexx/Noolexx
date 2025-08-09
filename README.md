@@ -9,7 +9,7 @@
 </h3>
 
 <h2 align="center">
-  📢 Latest News:
+  📢 Latest News :
 </h2>
 
 <p align="center">
