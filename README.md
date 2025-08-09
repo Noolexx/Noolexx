@@ -6,9 +6,13 @@
 📫 _**How to reach me :** Email or Discord_  
 
 💻 **Languages and Tools :**
+
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,visualstudio,vscode,cs,html,blender,trello)](https://skillicons.dev)
-<p/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,visualstudio,vscode,cs,html,blender,trello" />
+  </a>
+</p>
+
 ⭐ **GitHub Stats :**
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=dark)
