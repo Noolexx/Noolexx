@@ -3,7 +3,9 @@
 </h2>
 
 <p align="center">
-  🔭 I’m currently working on website for my portfolio ...  |  🌱 I’m learning the game development ...\n
+  🔭 I’m currently working on website for my portfolio ...  |  🌱 I’m learning the game development ...
+</p>
+<p align="center">
   ⚡ Fun fact : I'am Gamer, Biker, Skateboarder  |  📫 How to reach me : Email or Discord
 </p>
 
