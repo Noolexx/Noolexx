@@ -3,7 +3,7 @@
 </h1>
 
 <h3><a href="https://sachaviry.itch.io">
-  <img src="https://www.svgrepo.com/show/331445/itch.svg" />
+  <img src="https://www.svgrepo.com/show/331445/itch.svg" width="20px" height=auto />
 </a></h3>
 <h3><a href="https://www.linkedin.com/in/sacha-viry-68a935340">
   <img src="https://skillicons.dev/icons?i=linkedin" />
