@@ -3,10 +3,10 @@
 </h1>
 
 <h3><a href="https://sachaviry.itch.io">
-  <img src="https://skillicons.dev/icons?i=linkedin" /> Itch.io
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a></h3>
 <h3><a href="https://www.linkedin.com/in/sacha-viry-68a935340">
-  <img src="https://skillicons.dev/icons?i=linkedin" /> Linkedin
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a></h3>
 
 <h2 align="center">
