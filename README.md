@@ -17,7 +17,13 @@
   </a>
 </p>
 
-⭐ **GitHub Stats :**
+<h2 align="center">
+⭐ GitHub Stats :
+</h2>
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=dark)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=dark" />
+  </a>
+</p>
