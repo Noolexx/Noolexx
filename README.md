@@ -2,10 +2,12 @@
   📢 Latest News:
 </h2>
 
-🔭 _I’m currently working on website for my portfolio ..._  
-🌱 _I’m learning the game development ..._  
-⚡ _**Fun fact :** I'am Gamer, Biker, Skateboarder_  
-📫 _**How to reach me :** Email or Discord_  
+<p align="center">
+  🔭 I’m currently working on website for my portfolio ...
+  🌱 I’m learning the game development ...
+  ⚡ Fun fact : I'am Gamer, Biker, Skateboarder
+  📫 How to reach me : Email or Discord
+</p>
 
 <h2 align="center">
 💻 Languages and Tools :
