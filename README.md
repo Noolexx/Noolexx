@@ -31,7 +31,7 @@
 ⭐ GitHub Stats :
 </h2>
 
-<p align="center" vertical-align="text-top" >
+<p align="center" vertical-align="baseline" >
   <img src="https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </p>
