@@ -5,7 +5,7 @@
 <h3 align="center">
   <a href="https://sachaviry.itch.io"> <img src="https://www.svgrepo.com/show/331445/itch.svg" width="50px" height=auto /> </a>
   <a href="https://www.linkedin.com/in/sacha-viry-68a935340"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
-  <a href="https://www.youtube.com/@SachaViry"> <img src="https://images.icon-icons.com/1488/PNG/512/5295-youtube-i_102568.png" width="50px" height=auto /> </a>
+  <a href="https://www.youtube.com/@SachaViry"> <img src="https://images.icon-icons.com/1488/PNG/512/5295-youtube-i_102568.png" width="75px" height=auto /> </a>
 </h3>
 
 <h2 align="center">
