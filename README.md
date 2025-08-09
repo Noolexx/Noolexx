@@ -33,5 +33,5 @@
 
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Noolexx&show_icons=true&theme=dark" style="width: 39%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacha Viry&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolexx&layout=compact" />
 </p>
