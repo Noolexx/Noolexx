@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://sachaviry.itch.io">
+    <img src="https://skillicons.dev/icons?i=itchio" /> Itch.io
+  </a>
+</h1>
+
 <h2 align="center">
   📢 Latest News:
 </h2>
