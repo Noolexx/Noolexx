@@ -3,7 +3,7 @@
 </h1>
 
 <h3><a href="https://sachaviry.itch.io">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://www.svgrepo.com/show/331445/itch.svg" />
 </a></h3>
 <h3><a href="https://www.linkedin.com/in/sacha-viry-68a935340">
   <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,visualstudio,vscode,cs,html,blender,trello" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,visualstudio,vscode,cs,html,blender,trello,git" />
   </a>
 </p>
 
