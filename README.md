@@ -2,12 +2,12 @@
   Réseaux :
 </h1>
 
-<a href="https://sachaviry.itch.io">
+<h3><a href="https://sachaviry.itch.io">
   <img src="https://skillicons.dev/icons?i=linkedin" /> Itch.io
-</a>
-<a href="https://www.linkedin.com/in/sacha-viry-68a935340">
+</a></h3>
+<h3><a href="https://www.linkedin.com/in/sacha-viry-68a935340">
   <img src="https://skillicons.dev/icons?i=linkedin" /> Linkedin
-</a>
+</a></h3>
 
 <h2 align="center">
   📢 Latest News:
